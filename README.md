@@ -15,7 +15,7 @@ To run this project, please ensure you have Python installed. The following step
 
 ### 2.1. Dataset
 
-The dataset for this project can be downloaded from the course's official GitHub page:
+Since the dataset is too large, we don't provide it. It can be downloaded from the course's official GitHub page:
 `https://github.com/LINs-lab/course_machine_learning/tree/master/projects/project2`
 
 After downloading `twitter-datasets.zip`, please unzip it. The resulting `twitter-datasets` folder should be placed in the root directory of this project. The expected file structure is as follows:
@@ -38,8 +38,6 @@ your_project_folder/
 ├── glove_template.py
 
 └── README.md
-
-For convenience, we have also uploaded this database. So you don't need to download it.
 
 ### 2.2. Dependencies
 
