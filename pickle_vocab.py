@@ -45,8 +45,8 @@ def process_vocab(input_file, output_file):
 
 def main():
     build_vocab(
-    pos_file=r"public_kaggle_files/twitter-datasets/train_pos_full.txt",
-    neg_file=r"public_kaggle_files/twitter-datasets/train_neg_full.txt",
+    pos_file=r"twitter-datasets/train_pos_full.txt",
+    neg_file=r"twitter-datasets/train_neg_full.txt",
     output_file="vocab_full.txt"
 )
     
