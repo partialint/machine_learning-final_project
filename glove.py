@@ -28,8 +28,8 @@ def text_to_vector(text, embeddings, vocab):
 
 def train_classifier(embeddings, vocab):
     """训练并保存分类器"""
-    pos_texts = load_tweets("public_kaggle_files/twitter-datasets/train_pos_full.txt")
-    neg_texts = load_tweets("public_kaggle_files/twitter-datasets/train_neg_full.txt")
+    pos_texts = load_tweets("twitter-datasets/train_pos_full.txt")
+    neg_texts = load_tweets("twitter-datasets/train_neg_full.txt")
 
     X = []
     y = []
