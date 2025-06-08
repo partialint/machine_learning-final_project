@@ -58,7 +58,7 @@ def main():
         print(f"Text: '{text}' -> Sentiment: {sentiment} (1=positive, -1=negative)")
 
     predict_test_file(
-        input_file="public_kaggle_files/twitter-datasets/test_data.txt",
+        input_file="twitter-datasets/test_data.txt",
         output_file="my_submission.csv",
         embeddings=embeddings,
         vocab=vocab,
