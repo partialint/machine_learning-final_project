@@ -39,6 +39,8 @@ your_project_folder/
 
 └── README.md
 
+For convenience, we have also uploaded this database. So you don't need to download it.
+
 ### 2.2. Dependencies
 
 All required Python libraries for this project are listed in the `requirements.txt` file. They can be installed using the following command:
@@ -47,3 +49,11 @@ All required Python libraries for this project are listed in the `requirements.t
 pip install -r requirements.txt
 ```
 External libraries are permitted for this project, provided they are properly cited in the report and documented in the code.
+
+### 2.3. Run
+
+We integrated all the contents of this project into run.py. You can use the command below and wait for the result.
+
+```bash
+python run.py
+```
