@@ -57,3 +57,5 @@ We integrated all the contents of this project into run.py. You can use the comm
 ```bash
 python run.py
 ```
+
+And `my_submission.csv` is generated, which is the final result of this project.
