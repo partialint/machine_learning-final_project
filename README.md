@@ -1,7 +1,7 @@
 # Sentiment Analysis of Twitter Data using GloVe and Logistic Regression
 
-**Author**: [Your Name] ([Your Westlake Email])
-**Collaborator**: [Collaborator's Name] ([Collaborator's Westlake Email])
+**Author**: Xujie Wang (wangxujie@westlake.edu.cn)
+**Collaborator**: Shuhan Zhan (zhaoshuhan@westlake.edu.cn)
 
 ## 1. Project Overview
 
