@@ -13,8 +13,8 @@ def main():
     print("Building co-occurrence matrix...")
     
     counter = 1
-    for fn in ["public_kaggle_files/twitter-datasets/train_pos_full.txt", 
-               "public_kaggle_files/twitter-datasets/train_neg_full.txt"]:
+    for fn in ["twitter-datasets/train_pos_full.txt", 
+               "twitter-datasets/train_neg_full.txt"]:
         try:
             with open(fn, 'r', encoding='utf-8') as f:
                 for line in f:
