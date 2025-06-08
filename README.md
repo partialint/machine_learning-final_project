@@ -16,7 +16,7 @@ To run this project, please ensure you have Python installed. The following step
 ### 2.1. Dataset
 
 Since the dataset is too large, we don't provide it. It can be downloaded from the course's official GitHub page:
-`https://github.com/LINs-lab/course_machine_learning/tree/master/projects/project2`
+`https://github.com/LINs-lab/course_machine_learning/tree/master/projects/project2/project_text_classification/public_kaggle_files`
 
 After downloading `twitter-datasets.zip`, please unzip it. The resulting `twitter-datasets` folder should be placed in the root directory of this project. The expected file structure is as follows:
 your_project_folder/
