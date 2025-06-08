@@ -20,15 +20,25 @@ The dataset for this project can be downloaded from the course's official GitHub
 
 After downloading `twitter-datasets.zip`, please unzip it. The resulting `twitter-datasets` folder should be placed in the root directory of this project. The expected file structure is as follows:
 your_project_folder/
+
 ├── twitter-datasets/
+
 │   ├── train_pos_full.txt
+
 │   ├── train_neg_full.txt
+
 │   └── test_data.txt
+
 ├── run.py
+
 ├── pickle_vocab.py
+
 ├── cooc.py
+
 ├── glove_template.py
+
 └── README.md
+
 ### 2.2. Dependencies
 
 All required Python libraries for this project are listed in the `requirements.txt` file. They can be installed using the following command:
