@@ -38,7 +38,7 @@ def main():
     
     subprocess.run(["python3", "cooc.py"])
     
-    subprocess.run(["python3", "glove_template.py"])
+    subprocess.run(["python3", "glove.py"])
     
     embeddings = np.load("embeddings.npy")
     with open("vocab.pkl", "rb") as f:
